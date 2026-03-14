@@ -1,0 +1,1 @@
+pyinstaller -F --add-data "ffmpeg-8.0.1-full_build;ffmpeg-8.0.1-full_build" --icon="img\icon.ico" --name="B站爬虫大礼包" --collect-all=bilibili_api --collect-all=curl_cffi --hidden-import=certifi --hidden-import=chardet --hidden-import=charset_normalizer Bilibili_spider.py
