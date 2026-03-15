@@ -42,6 +42,7 @@
 ### 补充：
 
 - 此python程序在使用cookie时，请保持适当频率的爬取，切勿进行商业用途~运行结果
+- ffmpeg视频合并工具：https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z
 
 ### 运行结果：
 
@@ -95,6 +96,7 @@ By running this Python program, you can scrape video information, videos, and da
 ### Notes:
 
 - When using a cookie with this Python program, please maintain a reasonable scraping frequency. Do not use it for commercial purposes.
+- Download the ffmpeg tool：https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z
 
 ### Result：
 
